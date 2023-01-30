@@ -1,7 +1,3 @@
-!pip install torch_snippets
-
-!cp -r /content/drive/MyDrive/facedet SN
-
 # Import relevant Packages
 from torch_snippets import *
 
